@@ -1,0 +1,39 @@
+.details{
+  background: linear-gradient(45deg,lightgrey 30%,white 30%,grey);
+  width:80%;
+  height: auto;
+  border-radius: 25px;
+  box-shadow: 5px 5px 8px 8px;
+  align-items: center;
+  justify-content: center;
+  padding: 2%;
+  margin: 2% 10%;
+  background-color: white;
+  color: black;
+}
+.details table {
+  width: 100%;
+}
+.details table tr td{
+  width: 33%;
+}
+#contacts {
+    width:20%;
+    align-items: center;
+    justify-content: center;
+
+}
+#Students{
+  background:rgb(240, 240, 240);
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: 92vh;
+}
+#Teacher{
+  background : rgb(240, 240, 240);
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: 92vh;
+}
